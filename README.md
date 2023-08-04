@@ -1,2 +1,2 @@
 # ITSE-Program3
-# Generates monthly salary for employee objects
+Generates monthly salary for employee objects
